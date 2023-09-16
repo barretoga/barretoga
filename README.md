@@ -1,18 +1,24 @@
-<a href="https://app.daily.dev/kkjbarreto"><img src="https://api.daily.dev/devcards/25d485959b5e48b39798a43029e4cc90.png?r=51m" width="400" alt="Gabriel Barreto's Dev Card"/>
+# Gabriel Barreto - The Code Wizard 🧙‍♂️
 
-<h1>Hi there 👋.</h1>
+Hey there, fellow developers! 👋 Welcome to my magical realm of code and creativity. I'm Gabriel, your friendly neighborhood web developer hailing from the enchanting land of Bariri, Brazil 🇧🇷. 
 
-<h3>I'm Gabriel! I'm a web developer based in Bariri/SP - :brazil:.</h3>
+![Gabriel Barreto's Dev Card](https://api.daily.dev/devcards/25d485959b5e48b39798a43029e4cc90.png?r=51m)
 
-- :mortar_board: I’m studing Information Technology Management at FATEC - Jaú/SP.
-- :clipboard: [My Linkedin](https://www.linkedin.com/in/gabriel-barreto-886b61210/)
+## 🎓 Academic Sorcery
 
-### 📫 How to Reach me?
+I'm currently pursuing a degree in Information Technology Management at FATEC in Jaú, São Paulo. 📚 My quest for knowledge never ends, as I continuously explore the ever-expanding world of technology.
 
-You can reach me at my [e-mail](mailto:gabrielbarretogasparelo@gmail.com)!
-Follow my socials! 
+## 📬 How to Summon Me
 
-[![Instagram: kkjbarreto](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kkjbarreto)](https://www.instagram.com/kkjbarreto)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kkjbarreto?label=Twitter)](https://twitter.com/intent/follow?screen_name=kkjbarreto)
-[![Linkedin: Gabriel Barreto](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-barreto-886b61210/)](https://www.linkedin.com/in/gabriel-barreto-886b61210/)
-![GitHub followers](https://img.shields.io/github/followers/barretoga?label=Follow&style=social)
+Need assistance, have a question, or just want to chat about the latest spells in the tech realm? You can summon me via [email](mailto:gabrielbarretogasparelo@gmail.com) - a wizard is always prepared to respond to a friendly message!
+
+## 🌐 Explore My Magical Artifacts
+
+Dive into the depths of my digital wizardry by connecting with me on various social platforms:
+
+[![Instagram: kkjbarreto](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kkjbarreto)](https://www.instagram.com/kkjbarreto)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kkjbarreto?label=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=kkjbarreto)
+[![Linkedin: Gabriel Barreto](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-barreto-886b61210/)](https://www.linkedin.com/in/gabriel-barreto-886b61210/)
+![GitHub followers](https://img.shields.io/github/followers/barretoga?label=Follow&style=for-the-badge)
+
+Join me in the mystical journey of coding and creativity! Together, we'll create digital wonders beyond your wildest dreams. ✨🚀
