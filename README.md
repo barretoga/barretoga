@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻  I’m currently working at Labi9 Tecnologia da Informação as Front-End Tech Lead;<br>📚 I'm currently learning Java and Springboot;<br>🎯 Goals: Enjoy a good coffee with my family and play Bloodborn on PC;<br>🙇‍♂️ And I'm a nerd.</p>
+<p align="left">🧑‍💻  I’m currently working at Teddy Open Finance as Frontend Software Engineer;<br>📚 I'm currently learning Java and Springboot;<br>🎯 Goals: Enjoy a good coffee with my family and play Bloodborn on PC;<br>🙇‍♂️ And I'm a nerd.</p>
 
 ###
 
