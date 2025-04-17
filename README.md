@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻  I’m currently working at Teddy Open Finance as Frontend Software Engineer;<br>📚 I'm currently learning Java and Springboot;<br>🎯 Goals: Enjoy a good coffee with my family and play Bloodborn on PC;<br>🙇‍♂️ And I'm a nerd.</p>
+<p align="left">🧑‍💻  I’m currently working at Teddy Open Finance as Frontend Software Engineer;<br>📚 I'm currently learning Java and Springboot;<br>🎯 Goals: Enjoy a good coffee with my family and play Bloodborn on PC;</p>
 
 ###
 
@@ -87,11 +87,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/barretoga/barretoga/output/snake.svg" alt="Snake animation" />
-
-###
